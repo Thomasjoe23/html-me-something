@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    max-width: 1000px;
+	margin: auto;
+    background-color: #cecdcd;
+    font-size: 95%;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+ol {
+    text-align: left;
+}
+
+.centerColor {
+    background-color: rgb(150, 150, 150);
+}
+
+#centerPadding {
+    padding: 25px;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
